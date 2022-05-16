@@ -1,3 +1,17 @@
+
+.ask {
+  border-left: 1rem solid rgb(117, 115, 115);
+  padding: 10px;
+  padding-left: 30px;
+}
+
+.answer {
+  padding: 10px;
+  padding-left: 30px;
+  border-left: 1rem solid rgb(117, 115, 115);
+  background-color: rgb(252 245 31 / 42%);
+}
+
 /*
  * This is a manifest file that'll be compiled into application.css, which will include all the files
  * listed below.
